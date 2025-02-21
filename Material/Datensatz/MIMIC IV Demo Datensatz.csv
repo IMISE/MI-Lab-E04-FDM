@@ -1,0 +1,101 @@
+subject_id;age;gender;admission_type;insurance;vorhofflimmern;hyperlipidaemie;creatinine;hematocrit;infusion;ventilation;ibuprofen;fentanyl;weight;systolic_bp;diastolic_bp;vital_status
+10014729;21;F;SURGICAL SAME DAY ADMISSION;Other;0;0;0.5;27.2;1;0;400mg Tablet;100mcg/2mL Amp;66;142;85;alive
+10003400;72;F;EW EMER.;Medicare;1;0;1.4;23.0;1;0;___;100mcg/2mL Amp;64;135;89;dead
+10002428;80;F;OBSERVATION ADMIT;Medicare;0;1;0.5;30.5;1;1;___;100mcg/2mL Amp;60;190;105;alive
+10032725;38;F;EW EMER.;Other;0;1;0.7;33.7;1;1;600mg Tablet;___;___;___;___;dead
+10027445;48;F;EW EMER.;Other;0;0;0.7;30.8;1;0;___;2.5mg / 50 mL Premix Bag;___;140;86;dead
+10037928;78;F;OBSERVATION ADMIT;Medicare;0;1;1.4;36.8;1;0;___;___;62;180;60;alive
+10001725;46;F;EW EMER.;Other;0;0;0.8;36.3;1;0;400mg Tablet;___;64;142;72;alive
+10040025;64;F;AMBULATORY OBSERVATION;Other;1;1;2.4;26.9;1;0;___;2.5mg / 50 mL Premix Bag;66;112;60;dead
+10008454;26;F;EW EMER.;Other;0;0;0.5;25.8;1;0;___;___;67;118;78;alive
+10020640;91;F;EW EMER.;Other;0;0;0.4;19.5;1;0;___;___;___;___;___;dead
+10014078;60;F;EW EMER.;Medicaid;0;1;0.5;28.3;1;0;___;___;___;___;___;alive
+10007795;53;F;DIRECT OBSERVATION;Medicare;0;0;0.6;23.7;1;0;___;___;65;174;85;alive
+10001217;55;F;DIRECT EMER.;Other;0;0;0.4;38.5;1;0;___;___;66;134;84;alive
+10019172;63;F;ELECTIVE;Other;1;0;0.7;25.7;1;0;___;___;___;___;___;alive
+10039831;57;F;SURGICAL SAME DAY ADMISSION;Other;0;0;0.5;34.0;1;0;___;___;___;___;___;alive
+10007928;59;F;EW EMER.;Other;0;0;0.5;34.6;1;0;___;100mcg/2mL Amp;___;___;___;alive
+10019003;65;F;OBSERVATION ADMIT;Other;0;1;1.1;23.0;1;0;600mg Tablet;2.5mg / 50 mL Premix Bag;63;150;81;dead
+10002930;48;F;EU OBSERVATION;Medicare;0;0;0.8;27.9;1;0;400mg Tablet;___;62;___;___;dead
+10010471;89;F;OBSERVATION ADMIT;Medicare;0;0;4.5;32.0;1;0;___;___;66;___;___;dead
+10027602;71;F;SURGICAL SAME DAY ADMISSION;Other;0;0;0.5;33.8;1;1;___;___;62;128;80;alive
+10031757;67;F;DIRECT EMER.;Other;0;1;1.1;34.8;1;0;___;100mcg/2mL Amp;___;138;94;dead
+10016742;58;F;OBSERVATION ADMIT;Medicaid;0;0;0.3;43.5;1;1;___;100mcg/2mL Amp;___;___;___;alive
+10039997;67;F;SURGICAL SAME DAY ADMISSION;Medicare;0;1;1.1;46.8;1;0;___;___;65;150;84;alive
+10012853;91;F;DIRECT OBSERVATION;Medicare;1;1;___;36.4;1;0;___;___;64;143;60;alive
+10000032;52;F;EW EMER.;Medicaid;0;0;0.4;45.4;1;0;___;___;60;121;77;dead
+10031404;82;F;URGENT;Other;0;0;0.6;33.8;1;0;___;___;___;___;___;alive
+10029291;50;F;EW EMER.;Medicare;0;0;3.1;35.1;1;1;___;2.5mg / 50 mL Premix Bag;___;151;86;alive
+10005909;40;F;OBSERVATION ADMIT;Other;0;0;0.7;33.4;1;0;___;100mcg/2mL Amp;72;130;74;alive
+10039708;46;F;DIRECT OBSERVATION;Other;0;0;2.9;26.2;1;0;___;2.5mg / 50 mL Premix Bag;62;140;66;alive
+10019568;59;F;EW EMER.;Medicare;0;0;0.6;38.1;___;0;400mg Tablet;___;___;___;___;alive
+10020187;63;F;SURGICAL SAME DAY ADMISSION;Other;0;0;0.6;43.7;1;0;___;___;___;142;90;alive
+10016810;66;F;EW EMER.;Other;0;0;0.6;35.1;1;0;___;___;___;142;67;alive
+10038081;63;F;URGENT;Other;0;1;___;22.0;1;0;___;___;62;___;___;dead
+10021312;55;F;URGENT;Other;0;0;0.6;39.6;1;0;___;___;65;___;___;alive
+10006580;63;F;ELECTIVE;Medicaid;0;1;0.4;27.3;1;0;___;___;___;148;77;alive
+10010867;28;F;OBSERVATION ADMIT;Other;0;0;0.5;26.1;1;1;___;2.5mg / 50 mL Premix Bag;67;132;75;alive
+10020786;86;F;URGENT;Medicare;0;0;0.7;37.6;1;0;___;___;___;___;___;alive
+10020306;74;F;AMBULATORY OBSERVATION;Medicare;0;1;1.0;40.6;1;0;___;100mcg/2mL Amp;64;164;83;alive
+10023239;29;F;EU OBSERVATION;Other;0;1;0.7;40.2;1;0;___;___;65;155;90;alive
+10018328;83;F;SURGICAL SAME DAY ADMISSION;Other;0;0;0.7;28.0;1;0;___;___;64;120;74;alive
+10008287;43;F;SURGICAL SAME DAY ADMISSION;Other;0;0;0.5;35.4;1;0;___;___;___;96;60;alive
+10036156;88;F;URGENT;Other;0;1;0.8;28.6;1;0;___;___;___;___;___;alive
+10015272;78;F;EW EMER.;Medicare;0;0;0.7;24.8;1;0;___;___;65;___;___;alive
+10022281;84;M;EW EMER.;Other;0;0;1.3;36.4;___;0;600mg Tablet;___;___;___;___;alive
+10035631;63;M;AMBULATORY OBSERVATION;Other;0;0;0.9;22.9;1;1;___;2.5mg/50mL Vial;71;142;75;dead
+10024043;67;M;EU OBSERVATION;Medicare;0;0;1.1;53.3;1;0;___;___;69;162;80;dead
+10025612;82;M;SURGICAL SAME DAY ADMISSION;Medicare;0;0;0.8;33.5;1;0;___;___;64;144;75;alive
+10003046;64;M;SURGICAL SAME DAY ADMISSION;Other;0;0;0.7;36.2;1;0;___;___;66;152;79;alive
+10021666;87;M;EW EMER.;Medicare;1;1;1.2;38.0;1;0;___;___;___;___;___;dead
+10018423;37;M;EW EMER.;Other;0;0;0.8;26.4;1;0;600mg Tablet;___;67;106;71;alive
+10025463;66;M;DIRECT EMER.;Other;1;1;1.0;49.6;1;0;___;___;___;160;102;dead
+10017492;84;M;EW EMER.;Other;0;1;2.0;36.4;1;0;___;___;67;145;83;dead
+10004422;78;M;EW EMER.;Medicare;1;1;0.6;36.0;1;0;___;___;___;140;60;alive
+10011398;67;M;SURGICAL SAME DAY ADMISSION;Other;0;1;0.7;29.7;1;0;400mg Tablet;___;61;142;90;alive
+10021938;65;M;EW EMER.;Medicare;0;1;___;37.7;___;0;___;___;___;___;___;dead
+10009628;58;M;URGENT;Medicaid;1;1;0.8;25.7;1;0;___;___;___;108;70;alive
+10004457;65;M;SURGICAL SAME DAY ADMISSION;Medicare;0;1;0.9;25.6;1;0;___;___;69;162;89;alive
+10015860;53;M;OBSERVATION ADMIT;Other;0;0;2.0;26.3;1;0;600mg Tablet;___;71;167;101;alive
+10021487;43;M;DIRECT EMER.;Other;0;0;0.6;26.9;1;1;600mg Tablet;100mcg/2mL Amp;72;138;103;alive
+10013049;52;M;ELECTIVE;Other;0;0;1.0;30.3;1;0;___;___;___;107;78;alive
+10026255;66;M;EW EMER.;Other;1;1;0.6;40.1;1;0;600mg Tablet;___;___;154;90;dead
+10023771;70;M;ELECTIVE;Medicare;1;1;1.0;19.5;1;0;___;___;___;116;76;alive
+10023117;53;M;SURGICAL SAME DAY ADMISSION;Medicare;0;1;1.8;42.2;1;0;___;2.5mg / 50 mL Premix Bag;67;127;76;dead
+10022041;64;M;EW EMER.;Medicare;0;1;0.6;33.9;1;0;___;2.5mg / 50 mL Premix Bag;___;___;___;alive
+10005348;76;M;DIRECT OBSERVATION;Other;1;1;0.9;35.9;1;0;___;100mcg/2mL Amp;72;136;75;alive
+10009035;28;M;ELECTIVE;Other;0;0;1.0;28.9;1;0;600mg Tablet;___;___;142;89;alive
+10018081;79;M;SURGICAL SAME DAY ADMISSION;Medicare;1;1;1.2;26.9;1;1;___;100mcg/2mL Amp;68;140;60;dead
+10038933;34;M;EW EMER.;Other;0;0;0.6;40.4;1;0;___;100mcg/2mL Amp;___;___;___;alive
+10037975;60;M;URGENT;Medicare;1;0;4.1;39.6;1;1;___;2.5mg / 50 mL Premix Bag;___;___;___;dead
+10035185;70;M;URGENT;Other;0;1;1.4;34.8;1;0;___;___;70;145;96;alive
+10014354;60;M;OBSERVATION ADMIT;Other;0;0;1.2;34.1;1;0;600mg Tablet;___;72;187;74;alive
+10022880;66;M;SURGICAL SAME DAY ADMISSION;Medicare;1;0;1.0;36.8;1;0;___;___;73;142;84;alive
+10004720;61;M;EW EMER.;Medicare;0;0;0.2;26.9;1;1;___;2.5mg / 50 mL Premix Bag;70;153;82;dead
+10019385;44;M;OBSERVATION ADMIT;Other;0;0;0.7;33.2;1;0;400mg Tablet;100mcg/2mL Amp;68;116;58;alive
+10029484;64;M;EW EMER.;Other;0;1;0.7;33.8;1;0;___;___;___;120;74;alive
+10037861;77;M;EW EMER.;Medicare;1;1;1.4;43.9;1;1;___;100mcg/2mL Amp;62;___;___;dead
+10026406;45;M;EU OBSERVATION;Other;0;0;0.6;42.3;___;0;200 mg / 10 mL Unit Dose Cup;___;71;___;___;alive
+10007818;69;M;DIRECT EMER.;Medicare;0;0;3.6;___;1;1;___;100mcg/2mL Amp;73;___;___;dead
+10020740;56;M;DIRECT OBSERVATION;Other;0;1;0.8;31.9;1;0;400mg Tablet;100mcg/2mL Amp;67;116;67;alive
+10038999;45;M;OBSERVATION ADMIT;Medicare;0;0;0.8;28.1;1;1;___;2.5mg / 50 mL Premix Bag;68;___;___;alive
+10004235;47;M;SURGICAL SAME DAY ADMISSION;Medicaid;1;0;1.3;30.0;1;0;___;2.5mg / 50 mL Premix Bag;72;138;101;alive
+10022017;59;M;SURGICAL SAME DAY ADMISSION;Other;0;0;0.5;25.8;1;0;___;100mcg/2mL Amp;___;117;77;alive
+10002495;81;M;URGENT;Medicare;0;0;1.6;38.2;1;0;___;___;66;159;59;alive
+10018845;91;M;EW EMER.;Other;0;1;___;27.3;1;0;___;___;___;___;___;dead
+10020944;72;M;EW EMER.;Medicare;0;0;2.0;32.6;1;1;___;100mcg/2mL Amp;___;___;___;dead
+10016150;69;M;EW EMER.;Medicare;1;0;0.9;45.5;___;0;___;___;72;146;72;alive
+10005866;57;M;OBSERVATION ADMIT;Medicaid;0;0;0.4;27.5;1;0;___;___;67;132;79;dead
+10026354;34;M;URGENT;Other;0;0;0.9;40.8;1;0;___;100mcg/2mL Amp;___;98;64;alive
+10019917;44;M;URGENT;Other;0;0;1.1;27.6;___;0;___;___;71;130;73;alive
+10019777;51;M;EW EMER.;Other;0;0;0.8;23.5;1;1;___;2.5mg / 50 mL Premix Bag;___;___;___;dead
+10005817;66;M;OBSERVATION ADMIT;Medicare;1;0;2.9;22.0;1;1;___;2.5mg / 50 mL Premix Bag;68;153;66;dead
+10009049;56;M;EW EMER.;Other;0;0;0.9;32.9;1;0;___;___;67;124;72;alive
+10015931;87;M;OBSERVATION ADMIT;Medicare;0;0;2.9;23.8;1;0;___;100mcg/2mL Amp;65;138;75;dead
+10006053;52;M;URGENT;Medicaid;0;0;2.6;24.3;1;0;___;2.5mg / 50 mL Premix Bag;___;___;___;dead
+10012552;78;M;URGENT;Medicare;0;1;1.1;28.5;1;0;___;___;___;184;93;alive
+10004733;51;M;URGENT;Medicaid;0;0;3.4;24.7;1;0;___;2.5mg / 50 mL Premix Bag;73;153;94;alive
+10021118;62;M;URGENT;Other;0;0;1.0;41.3;1;0;___;100mcg/2mL Amp;71;135;76;alive
+10018501;83;M;EW EMER.;Medicare;0;0;1.2;40.2;1;0;___;___;67;160;78;alive
+10007058;48;M;EW EMER.;Other;0;0;1.0;37.8;1;0;___;___;71;134;87;alive
+10038992;70;M;SURGICAL SAME DAY ADMISSION;Medicare;0;0;1.7;29.7;1;0;___;100mcg/2mL Amp;70;140;85;alive
