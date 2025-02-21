@@ -2,18 +2,16 @@ version: '3'
 services:
   db:
     image: mysql:8.0
-    container_name: mi-lab-ldh-mysql
     command: --character-set-server=utf8mb4 --collation-server=utf8mb4_unicode_ci --log-error-verbosity=1
     restart: always
     stop_grace_period: 1m30s
     env_file:
       - .env
     volumes:
-      - mi-lab-ldh-mysql-db:/var/lib/mysql
+      - mysql-db:/var/lib/mysql
 
   seek: # The SEEK application
     image: fairdom/seek:seek-1.15-fhir-api
-    container_name: mi-lab-ldh
     command: docker/entrypoint.sh
     restart: always
     environment:
@@ -24,10 +22,10 @@ services:
     env_file:
       - .env
     volumes:
-      - mi-lab-ldh-filestore:/seek/filestore
-      - mi-lab-ldh-cache:/seek/tmp/cache
+      - filestore:/seek/filestore
+      - cache:/seek/tmp/cache
     ports:
-      - "3000:3000"
+      - "127.0.0.1:3000:3000"
     depends_on:
       - db
       - solr
@@ -37,7 +35,6 @@ services:
 
   seek_workers: # The SEEK delayed job workers
       image: fairdom/seek:seek-1.15-fhir-api
-      container_name: mi-lab-ldh-workers
       command: docker/start_workers.sh
       restart: always
       environment:
@@ -47,8 +44,8 @@ services:
       env_file:
         - .env
       volumes:
-        - mi-lab-ldh-filestore:/seek/filestore
-        - mi-lab-ldh-cache:/seek/tmp/cache
+        - filestore:/seek/filestore
+        - cache:/seek/tmp/cache
       depends_on:
         - db
         - solr
@@ -58,12 +55,11 @@ services:
 
   solr:
     image: fairdom/seek-solr:8.11
-    container_name: mi-lab-ldh-solr
     restart: always
     environment:
       SOLR_JAVA_MEM: -Xms512m -Xmx1024m
     volumes:
-      - mi-lab-ldh-solr-data:/var/solr/
+      - solr-data:/var/solr/
     entrypoint:
       - docker-entrypoint.sh
       - solr-precreate
@@ -72,12 +68,7 @@ services:
 
 
 volumes:
-  mi-lab-ldh-filestore:
-    external: true
-  mi-lab-ldh-mysql-db:
-    external: true
-  mi-lab-ldh-solr-data:
-    external: true
-  mi-lab-ldh-cache:
-    external: true
-
+  filestore:
+  mysql-db:
+  solr-data:
+  cache:
