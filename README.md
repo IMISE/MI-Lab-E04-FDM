@@ -16,7 +16,7 @@ Nachdem alle Images gestartet sind können Sie im Browser http://localhost:3000 
 Eine Übersicht der synthetischen zu hochladenden Studiendokumente für den MIMIC IV Demo Datensatz:
 
 | Dokument | Beschreibung |
-|----------|----------|----------|
+|----------|----------|
 | Forschungsdatenmanagementplan (FDMP) | Wie Forschungsdaten erstellt, verarbeitet, gespeichert und geteilt werden |
 | Studienprotokoll | Enthält Ziel, Design und Methodik der Studie  | 
 | Datenqualitätsregeln | Standards und Kriterien für die Datenqualität  | 
