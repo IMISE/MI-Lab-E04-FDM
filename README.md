@@ -1,4 +1,4 @@
-## MI-Lab Übung C04-FDM
+## MI-Lab Übung E04-FDM
 # Registrierung von Forschungsvorhaben und Ablage in einem Forschungsdatenmanagementsystem
 
 ## Lokale Installation
