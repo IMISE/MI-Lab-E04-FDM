@@ -1,23 +1,23 @@
-## MI-Lab Übung E04-FDM
-# Registrierung von Forschungsvorhaben und Ablage in einem Forschungsdatenmanagementsystem
+## MI-Lab Exercise E04-FDM
+# Registration of Research Projects and Storage in a Research Data Management System
 
-## Lokale Installation
-Navigieren Sie in den Ordner **Setup** und führen dort im Terminal `docker-compose up -d` aus. Das zieht alle Docker images von einem Server. Der Download dauert ca. 5 min. 
-Nachdem alle Images gestartet sind können Sie im Browser http://localhost:3000 aufrufen um auf den lokalen Local Data Hub zuzugreifen und sich anzumelden.
+## Local Installation
+Navigate to the **Setup** folder and run `docker-compose up -d` in the terminal. This will pull all Docker images from a server. The download takes approximately 5 minutes.  
+After all images have started, you can open http://localhost:3000 in your browser to access the local Local Data Hub and log in.
 
-## Ordnerstruktur
-- `Aufgaben/` Beinhaltet Übungsblatt, Präsentationsfolien und Lösungen
+## Folder Structure
+- `Exercise/` Contains exercise sheet, presentation slides, and solutions
 - `Material/`
-  -  `Datensatz/` Der MIMIC-Datensatz für diese Übung in CSV-Format
-  -  `Studiendokumente/` Die synthetischen Studiendokumente zum Hochladen in das Forschungsdatenmanagementsystem. 
-- `Setup/` Docker Compose Setup für LDH
+  -  `Dataset/` The MIMIC dataset for this exercise in CSV format
+  -  `Study_documents/` The synthetic study documents to be uploaded into the research data management system  
+- `Setup/` Docker Compose setup for LDH
 
-## Studiendokumente
-Eine Übersicht der synthetischen zu hochladenden Studiendokumente für den MIMIC IV Demo Datensatz:
+## Study Documents
+An overview of the synthetic study documents to be uploaded for the MIMIC IV Demo dataset:
 
-| Dokument | Beschreibung |
+| Document | Description |
 |----------|----------|
-| Forschungsdatenmanagementplan (FDMP) | Wie Forschungsdaten erstellt, verarbeitet, gespeichert und geteilt werden |
-| Studienprotokoll | Enthält Ziel, Design und Methodik der Studie  | 
-| Datenqualitätsregeln | Standards und Kriterien für die Datenqualität  | 
-| Data Dictionary | Struktur und Variablen des Datensatzes. Erleichtert Interpretation der Daten | 
+| Research Data Management Plan (RDMP) | Describes how research data are created, processed, stored, and shared |
+| Study Protocol | Contains the objective, design, and methodology of the study  | 
+| Data Quality Rules | Standards and criteria for data quality  | 
+| Data Dictionary | Structure and variables of the dataset. Facilitates interpretation of the data |  
